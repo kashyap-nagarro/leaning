@@ -1,0 +1,2 @@
+# leaning
+learning python script
