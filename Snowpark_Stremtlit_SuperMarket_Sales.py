@@ -230,4 +230,4 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-print("Helo ML")
+print("Helo ML and DL")
